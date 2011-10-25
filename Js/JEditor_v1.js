@@ -7,7 +7,7 @@ var App = new Ext.Application({
         
         this.viewport = new Ext.Panel({
         fullscreen: true,
-        html:'Prueba HTML'	        
+        html:'Prueba HTML'          
         });
     }
 });
